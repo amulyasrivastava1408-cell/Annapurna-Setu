@@ -24,7 +24,7 @@ except ImportError:
 # =========================================================
 
 st.set_page_config(
-    page_title="FoodRescue AI",
+    page_title="Annapurna Setu",
     page_icon="🥗",
     layout="wide",
     initial_sidebar_state="expanded",
