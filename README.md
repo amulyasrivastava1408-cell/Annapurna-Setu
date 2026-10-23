@@ -49,7 +49,7 @@ As the project grows, the architecture may evolve towards:
 - **Frontend:** React or Next.js for a responsive web application.
 - **Mobile Application:** React Native or Flutter.
 - **Backend:** FastAPI or Django with REST APIs.
-- **Database:** PostgreSQL with Supabase or a managed PostgreSQL service.
+- **Database:** AWS cloud.
 - **AI and LLMs:** Gemini or another suitable LLM for food information extraction and conversational assistance.
 - **RAG:** Retrieval from live donation, recipient, and platform records to provide context-aware answers.
 - **Machine Learning:** Food categorisation and, when sufficient data is available, improved matching and demand prediction.
